@@ -2,7 +2,7 @@
 
 Please click the following link to try out the predictions interactively:
 
-###[Number MNIST Classifier](https://sfbernado.github.io/Number-MNIST-Classifier/)
+### [Number MNIST Classifier](https://sfbernado.github.io/Number-MNIST-Classifier/)
 
 ## Overview
 
