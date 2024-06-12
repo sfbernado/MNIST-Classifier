@@ -1,5 +1,9 @@
 # Number-MNIST-Classifier
 
+Please click the following link to try out the predictions interactively:
+
+###[Number MNIST Classifier](https://sfbernado.github.io/Number-MNIST-Classifier/)
+
 ## Overview
 
 The Number MNIST Classifier is a web-based application designed to demonstrate the capabilities of machine learning for image recognition tasks. It utilizes a Convolutional Neural Network (CNN) model, built with TensorFlow, to classify handwritten digits from the MNIST dataset. Users can interact with the classifier through a simple web interface, providing a digit image from the input and indirectly receiving the model's prediction.
